@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Lato:wght@300&family=Montserrat:wght@300;400;800&family=Work+Sans:wght@200;300&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: gold;
+}

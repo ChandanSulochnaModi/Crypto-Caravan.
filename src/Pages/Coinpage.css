@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Lato:wght@300&family=Montserrat:wght@800&family=Work+Sans:wght@200;300&display=swap');
+
+.coinpage { 
+    display: flex;
+}
+
+.coinoneside{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+    border-right: 2px solid grey;
+
+}
+.heading {
+    font-family: "Montserrat", sans-serif;
+}
+.description { 
+    width: 100%;
+    font-family: 'Montserrat',sans-serif;
+    padding: 25px;
+    padding-bottom: 15px;
+    padding-top: 0;
+    text-align: justify;
+}
+.marketData {
+    align-self: flex-start;
+    padding: 25px;
+    padding-top: 10px;
+    width: 100%;
+    font-family: 'Montserrat',sans-serif;
+  }
